@@ -19,7 +19,7 @@ You Need you to submit your Assignment Video to us. You may record your assignme
 {% hint style="success" %}
 ## **Submission URL**
 
-**\[@Bodish - KEEP THE URL HERE\]**
+[https://sv.co/r/SOI-VR-2](http://sv.co/r/SOI-VR-2)
 {% endhint %}
 
 {% hint style="warning" %}
