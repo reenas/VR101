@@ -14,6 +14,7 @@ You need you to submit your assignment video to us. You may record your assignme
 * Select the video you'd like to upload from your computer. You can also import a video from Google Photos.
 * If you set the video privacy setting to Private or Unlisted, just click Done to finish the upload or click Share to privately share your video.If you haven’t clicked Publish, your video won’t be visible to other people. You can always publish your video at a later time in your Video Manager.
 * Get the URL and submit to us
+
 {% endhint %}
 
 {% hint style="success" %}
@@ -23,6 +24,6 @@ You need you to submit your assignment video to us. You may record your assignme
 {% endhint %}
 
 {% hint style="warning" %}
-Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)​
+Got Stuck??? Post your query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)​
 {% endhint %}
 
