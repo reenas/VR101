@@ -35,9 +35,8 @@ Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/
 {% endhint %}
 
 {% hint style="info" %}
-
 ## Video Reference
 
 * [Understanding Unity UI Text ](https://www.youtube.com/watch?v=wlY5sRewfVQ) 
-
 {% endhint %}
+

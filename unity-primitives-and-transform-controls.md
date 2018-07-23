@@ -101,10 +101,8 @@ Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/
 {% endhint %}
 
 {% hint style="info" %}
-
 ## Video Reference
 
 * [Understanding Unity Interference](https://www.youtube.com/watch?v=z92ZfYEyojI) 
-
 {% endhint %}
 

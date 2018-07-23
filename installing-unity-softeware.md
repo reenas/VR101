@@ -65,12 +65,10 @@ Once you see something like this, your installation of Unity3d is complete.
 * [Linux Installation](https://www.youtube.com/watch?v=TCSGa3V78hg)
 
 {% hint style="success" %}
-
 To Do \(A Summarize To-Do list for Students\)
 
 * [ ] Downloading Unity
 * [ ] Installing Unity
-
 {% endhint %}
 
 {% hint style="warning" %}

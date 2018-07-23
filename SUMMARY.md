@@ -1,7 +1,6 @@
 # Table of contents
 
 * [VR101](README.md)
-* [Intro](intro.md)
 * [Intro to Virtual Reality](intro-to-virtual-reality.md)
 * [Types of VR](tools-to-build-vr-content.md)
 * [Tools to build VR Content](virtual-reality.md)

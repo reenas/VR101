@@ -25,9 +25,8 @@ Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/
 {% endhint %}
 
 {% hint style="info" %}
-
 ## Video Reference
 
 * [Understanding Unity Audio](https://www.youtube.com/watch?v=6OT43pvUyfY)
-
 {% endhint %}
+

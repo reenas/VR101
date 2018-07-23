@@ -45,10 +45,8 @@ Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/
 {% endhint %}
 
 {% hint style="info" %}
-
 ## Video Reference
 
 * [Understanding Unity Lighting ](https://www.youtube.com/watch?v=VnG2gOKV9dw)
-
 {% endhint %}
 
