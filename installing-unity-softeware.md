@@ -71,6 +71,8 @@ To Do \(A Summarize To-Do list for Students\)
 * [ ] Downloading Unity
 * [ ] Installing Unity
 
+{% endhint %}
+
 {% hint style="warning" %}
 Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
 {% endhint %}

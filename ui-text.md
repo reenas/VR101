@@ -40,3 +40,4 @@ Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/
 
 * [Understanding Unity UI Text ](https://www.youtube.com/watch?v=wlY5sRewfVQ) 
 
+{% endhint %}

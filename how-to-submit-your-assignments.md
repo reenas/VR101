@@ -16,6 +16,8 @@ You Need you to submit your Assignment Video to us. You may record your assignme
 * If you set the video privacy setting to Private or Unlisted, just click Done to finish the upload or click Share to privately share your video.If you haven’t clicked Publish, your video won’t be viewable by other people. You can always publish your video at a later time in your Video Manager.
 * Get The URL and Submit to us
 
+{% endhint %}
+
 {% hint style="success" %}
 ## **Submission URL**
 
