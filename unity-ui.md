@@ -18,7 +18,7 @@ Now lets check out the different parts of the editor.
 
 ### The Scene View
 
-The scene view is where you make your game/vr experience. This is literally your sandbox/workshop you do most of your work here. 
+The scene view is where you make your game/vr experience. This is literally your sandbox/workshop you do most of your work here.
 
 ![](.gitbook/assets/12.jpg)
 
@@ -30,12 +30,11 @@ As you make your app, add elements, move things around or make any changes at al
 
 ![](.gitbook/assets/13.jpg)
 
-The game view is where you can try out your game mechanics, see how things are working from a user/player point of view. The game view shows you how the user sees the game.  
-
+The game view is where you can try out your game mechanics, see how things are working from a user/player point of view. The game view shows you how the user sees the game.
 
 ### Hierarchy Window
 
-If you have used Photoshop or any 3D Design software, you will find this very familiar. The hierarchy window is where you add and manage your Game objects. 
+If you have used Photoshop or any 3D Design software, you will find this very familiar. The hierarchy window is where you add and manage your Game objects.
 
 > Game objects are any objects used in your game or application. Game objects are empty containers to which you can give any parameter or character. Game objects can project geometry \( be a cube or sphere or any kind of shape or mesh \), can emit light, act as a camera or even create complex behaviors via scripts. They can even be used as an empty place holder that can be used as a folder
 
@@ -57,7 +56,7 @@ The project window contains all the assets you use in your application. You can 
 
 ### Inspector Window
 
-The Inspector window lets you configure any game object in a scene. When you select any game object in the hierarchy window, the inspector lists all of its properties, which you can edit and customize and also add any new component to it. 
+The Inspector window lets you configure any game object in a scene. When you select any game object in the hierarchy window, the inspector lists all of its properties, which you can edit and customize and also add any new component to it.
 
 ![](.gitbook/assets/17.jpg)
 
@@ -71,7 +70,7 @@ It starts the game and you notice that the buttons turn blue.
 
 ![](.gitbook/assets/playbuttons2.png)
 
-A very important fact to remember is that once you are in play mode, whatever changes you make will not get saved and more over, the changes you make will revert when play mode stops. 
+A very important fact to remember is that once you are in play mode, whatever changes you make will not get saved and more over, the changes you make will revert when play mode stops.
 
 ![](.gitbook/assets/playbuttons3.png)
 
@@ -81,15 +80,13 @@ The pause button lets you pause the game at any instant. You can pause at anytim
 
 The third button is called the step button. It lets you step or sweep through each frame in a scene on a frame- by- frame basis.
 
-
-
-These are the basics Unity Interface elements that you will be dealing with. To get a better view of things, check out the official [Unity3D Manual](https://docs.unity3d.com/Manual/UnityBasics.html). 
+These are the basics Unity Interface elements that you will be dealing with. To get a better view of things, check out the official [Unity3D Manual](https://docs.unity3d.com/Manual/UnityBasics.html).
 
 {% hint style="info" %}
+
 ## Video Reference
 
 * [Understanding Unity Interference](https://www.youtube.com/watch?v=z92ZfYEyojI) 
-{% endhint %}
 
 {% hint style="warning" %}
 Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)

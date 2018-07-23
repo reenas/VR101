@@ -23,11 +23,9 @@ VR is quite different. It makes you think you are actually living inside a compl
 > Courtesy : [https://www.explainthatstuff.com/virtualreality.html](https://www.explainthatstuff.com/virtualreality.html)
 
 {% hint style="info" %}
+
 ## Video Reference:
 
 * [ ] [What Is Virtual Reality & How Does It Work? \| Mashable Explains](https://www.youtube.com/watch?v=HBNH8tzsfVM)
-* [ ] [Virtual Reality: Explained! by ****Marques Brownlee](https://www.youtube.com/watch?v=i4Zt3JZejbg)
-{% endhint %}
-
-
+* [ ] [Virtual Reality: Explained! by _\*\*_Marques Brownlee](https://www.youtube.com/watch?v=i4Zt3JZejbg)
 

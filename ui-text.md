@@ -6,9 +6,9 @@ description: This will walk you thorough how to add Text to your scenes.
 
 ### UI Text
 
-To make UI text, Click on GameObject Tab &gt; UI &gt; Text 
+To make UI text, Click on GameObject Tab &gt; UI &gt; Text
 
- The **Text** control displays a non-interactive piece of text to the user. This can be used to provide captions or labels for other GUI controls or to display instructions or other text.
+The **Text** control displays a non-interactive piece of text to the user. This can be used to provide captions or labels for other GUI controls or to display instructions or other text.
 
 ![](.gitbook/assets/24.jpg)
 
@@ -28,15 +28,15 @@ And the Event System enables sending events to objects in the application based 
 
 You can change the properties you wish to change for the text from the inspector window. Like, if you want to change font, alignment, size, weight, colour, etc.
 
-![Text properties in Inspector](.gitbook/assets/image%20%2831%29.png)
+![Text properties in Inspector](.gitbook/assets/image-31.png)
 
 {% hint style="warning" %}
 Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
 {% endhint %}
 
 {% hint style="info" %}
+
 ## Video Reference
 
 * [Understanding Unity UI Text ](https://www.youtube.com/watch?v=wlY5sRewfVQ) 
-{% endhint %}
 
