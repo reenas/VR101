@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to VR101 with Facebook @ SV.Co](README.md)
+* [Welcome to VR101](README.md)
 * [Intro](intro.md)
 * [Intro to Virtual Reality](intro-to-virtual-reality.md)
 * [Types of VR](tools-to-build-vr-content.md)
