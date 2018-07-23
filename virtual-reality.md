@@ -10,7 +10,7 @@ Unity is the most widely used engine for creating VR Experiences, due to its eas
 ![Courtesy : Unity3D.com](.gitbook/assets/image-13.png)
 
 **Unreal Engine**  
-Unreal engine, known for its superior Graphics quality and easy to use Visual - Node based Editor \( Blueprint \), which allows you to create great experiences without having to write a single line of code.
+Unreal engine, known for its superior Graphics quality and easy to use Visual - Node based Editor \(Blueprint\), which allows you to create great experiences without having to write a single line of code.
 
 ![Courtesy : variety.com](.gitbook/assets/image-25.png)
 
@@ -27,15 +27,15 @@ Being over the browser, it works with almost any device.
 
 ## Scapic
 
-Scapic is a really amazing online platform which you can use to create and prototype VR scenes and experiences easily. You can easily make complete VR Experiences in a matter of minutes.
+Scapic is a really amazing online platform which you can use to create and prototype VR scenes and experiences easily. You can easily make complete VR Experiences in minutes.
 
 ![Courtesy : scapic.com](.gitbook/assets/image-6.png)
 
 **Vizor and Vizor Patches**  
-Vizor is an easy to use tool to create VR Stories with 360 degree content.  
+Vizor is an easy to use tool to create VR Stories with 360-degree content.  
 It also has simple-to-use Visual Programming editor called "Patches" which can be used to create WebVR and WebGL experiences easily with no code at all.
 
 ![](.gitbook/assets/image-20.png)
 
-In this **VR 101** Course , we will be focusing on **Unity 3D** to create your first VR Experience. The following pages will guide you through installing the Unity3D Software and basics of how to use it to create cool environments and experiences for VR.
+In this **VR 101** Course, we will be focusing on **Unity 3D** to create your first VR Experience. The following pages will guide you through installing the Unity3D Software and basics of how to use it to create cool environments and experiences for VR.
 

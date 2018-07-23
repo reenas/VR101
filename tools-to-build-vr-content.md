@@ -8,7 +8,7 @@ description: >-
 
 Broadly, VR can be classified based on its type of immersion and the type of device you intend to use.
 
-Based on Type of Immersion, VR can be categorized broadly as :  
+Based on Type of Immersion, VR can be categorized broadly as:  
 1. 360 Degree Media and  
 2. Computer Generated 3D VR \(CG3D VR\)
 
@@ -16,7 +16,7 @@ Based on Type of Immersion, VR can be categorized broadly as :
 
 These are basically 360 Degree Camera-shot images or videos or rendered scenes or images in 3D.
 
-Camera shot 360 media enable you to experience or see a real-life place or scenario shot using a 360 degree camera.
+Camera shot 360 media enable you to experience or see a real-life place or scenario shot using a 360-degree camera.
 
 ![A 360 degree panoramic Image. Courtesy : Lynda.com](.gitbook/assets/image-12.png)
 
@@ -39,7 +39,7 @@ VR Devices can be broadly classified as :
 
 ### PC VR
 
-PC VR Headsets are headsets that provide the best possible VR experiences as of now. These headsets needs to be connected to a PC to be used. It utilizes the computer's graphics capabilities to render the VR experience in real-time.
+PC VR Headsets are headsets that provide the best possible VR experiences as of now. These headsets need to be connected to a PC to be used. It utilizes the computer's graphics capabilities to render the VR experience in real-time.
 
 Most of the PC VR Headsets can track your presence in the 3D Space, which means you can walk around in the 3D space like you walk in the real-world.
 
@@ -61,12 +61,12 @@ Playstation VR is the most famous VR headset and it connets only to a Playstatio
 
 ### Mobile VR
 
-In 2011, when all the buzz about VR started coming in since the Oculus was announced, there was a general stigma that only people with high-end PCs can experince VR.
+In 2011, when all the buzz about VR started coming in since the Oculus was announced, there was a general stigma that only people with high-end PCs can experience VR.
 
 But all that changed when Google came out with the Google Cardboard and showed everyone that you already have a VR capable device in your own hands - your Smartphone.  
 Mobile phones, even though it may not be able to give you the quality of immersion the PC VR headsets can give you.
 
-Some of these Mobile VR enablers are shown below :
+Some of these Mobile VR enablers are shown below:
 
 **Google Cardboard**
 

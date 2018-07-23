@@ -10,7 +10,7 @@ You can add light to any scene by Selecting GameObject &gt; Light &gt; -- and se
 
 ### Types of Light
 
-#### Point Light :
+#### Point Light:
 
 A point light is located at a point in space and sends light out in all directions equally.
 
@@ -41,7 +41,7 @@ Directional lights represent large, distant sources that come from a position ou
 ![](.gitbook/assets/image-30.png)
 
 {% hint style="warning" %}
-Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
 {% endhint %}
 
 {% hint style="info" %}

@@ -19,7 +19,7 @@ Creates a cube with each side 1 unit in length. It can be used as a box of any d
 
 ![https://docs.unity3d.com/](.gitbook/assets/image-18.png)
 
-Creates a sphere of unit diameter \( radius - 0.5 units \)
+Creates a sphere of unit diameter \(radius - 0.5 units\)
 
 #### Cylinder
 
@@ -31,17 +31,17 @@ This is a simple cylinder, 2 units tall and 1 unit wide.
 
 ![https://docs.unity3d.com/](.gitbook/assets/image-28.png)
 
-This is a flat surface, 10 units long and placed on the xz plane of the local coordinate system.
+This is a flat surface, 10 units long and placed on the XZ plane of the local coordinate system.
 
 #### Quad
 
 ![https://docs.unity3d.com/](.gitbook/assets/image-2.png)
 
-The quad is a one unit long primitive, though it looks like the plane, it is smaller, renders 2 sides unlike the plane which renders only top side and is oriented in the local xy axis.
+The quad is a one unit long primitive, though it looks like the plane, it is smaller, renders 2 sides unlike the plane which renders only top side and is oriented in the local XY axis.
 
 ### Transform Controls
 
-In order to test the Transform Controls, add a primitive object so you cant really test transform controls on an empty scene.
+In order to test the Transform Controls, add a primitive object so you can't really test transform controls on an empty scene.
 
 You'll find the transform controls on the top-left corner of the Unity Editor. The first tool is the " **Hand Tool**".
 
@@ -55,7 +55,7 @@ Right-click and drag to rotate the camera around your current position; notice t
 
 ![](.gitbook/assets/primative_rotate_scene.gif)
 
-Next, hold down _Ctrl \(or Cmd\)_ and _Alt \(or Option\)_, right-click and move the mouse up to zoom into the scene. Moving the mouse down zooms out. Or if you want do it the easy way, just just use the scroll wheel:
+Next, hold down _Ctrl \(or Cmd\)_ and _Alt \(or Option\)_, right-click and move the mouse up to zoom into the scene. Moving the mouse down zooms out. Or if you want do it the easy way, just use the scroll wheel:
 
 ![](.gitbook/assets/primative_zoom.gif)
 
@@ -63,7 +63,7 @@ The _Translate tool_ lets you select and position a GameObject in the scene:
 
 ![](.gitbook/assets/20.jpg)
 
-You’ll notice when you select a GameObject while the Translate Tool is active, you’ll see three colored arrows growing from its center. These arrows indicate the three-dimensional axes of the object: the x-axis is the red arrow, the y-axis is the green arrow, and the z-axis is the blue arrow:
+You’ll notice when you select a GameObject while the Translate Tool is active, you’ll see three colored arrows growing from its centre. These arrows indicate the three-dimensional axes of the object: the x-axis is the red arrow, the y-axis is the green arrow, and the z-axis is the blue arrow:
 
 ![](.gitbook/assets/primative_transform.gif)
 
@@ -87,12 +87,12 @@ The _Scale tool_ lets you scale a GameObject either along a single axis, or prop
 
 ![](.gitbook/assets/22.jpg)
 
-To scale an object along an axis, select the GameObject then drag the square end of an axis line; the GameObject will scale along that axis. To scale the entire GameObject, select the center point of the GameObject and drag the mouse either forwards or backwards to scale the GameObject up or down respectively:
+To scale an object along an axis, select the GameObject then drag the square end of an axis line; the GameObject will scale along that axis. To scale the entire GameObject, select the centre point of the GameObject and drag the mouse either forwards or backwards to scale the GameObject up or down respectively:
 
 ![](.gitbook/assets/primative_scale.gif)
 
-The shortcut keys for the Hand Tool is - Q, Translate is W, Rotate is E, and Scale is R.  
-So for any transform control, you can use " Q, W, E and R" to easily get things done.
+The shortcut keys for the Hand Tool is - Q, translate is W, rotate is E, and scale is R.  
+So, for any transform control, you can use " Q, W, E and R" to easily get things done.
 
 ![](.gitbook/assets/image-19.png)
 

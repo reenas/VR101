@@ -10,7 +10,7 @@ description: >-
 
 You can download Unity3D Software from the [Unity Download page](https://unity3d.com/get-unity/download?_ga=2.4811441.364722446.1530540963-1720237505.1507147097). This page gives you the link to download the Unity Installer which will download the Unity Software.
 
-It is recomended that you use a computer running Windows 7 or higher \(64 bit only \) on an i5 or i7 processor \( i3 works but you may have performance issues \) with atleast 4GB RAM.
+It is recommended that you use a computer running Windows 7 or higher \(64 bit only\) on an i5 or i7 processor \(i3 works but you may have performance issues\) with at least 4GB RAM.
 
 ![Click on &quot; Choose your Unity + download &quot; button](.gitbook/assets/1.jpg)
 
@@ -72,6 +72,6 @@ To Do \(A Summarize To-Do list for Students\)
 {% endhint %}
 
 {% hint style="warning" %}
-Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
 {% endhint %}
 
