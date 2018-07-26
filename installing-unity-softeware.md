@@ -64,14 +64,20 @@ Once you see something like this, your installation of Unity3d is complete.
 * [Mac Installation ](https://www.youtube.com/watch?v=YC3924upas8)
 * [Linux Installation](https://www.youtube.com/watch?v=TCSGa3V78hg)
 
+{% endhint %}
+
 {% hint style="success" %}
+
 To Do \(A Summarize To-Do list for Students\)
 
 * [ ] Downloading Unity
 * [ ] Installing Unity
+
 {% endhint %}
 
 {% hint style="warning" %}
+
 Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+
 {% endhint %}
 
