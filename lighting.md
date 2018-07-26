@@ -41,12 +41,16 @@ Directional lights represent large, distant sources that come from a position ou
 ![](.gitbook/assets/image-30.png)
 
 {% hint style="warning" %}
+
 Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+
 {% endhint %}
 
 {% hint style="info" %}
+
 ## Video Reference
 
 * [Understanding Unity Lighting ](https://www.youtube.com/watch?v=VnG2gOKV9dw)
+
 {% endhint %}
 
