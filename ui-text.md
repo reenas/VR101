@@ -32,7 +32,7 @@ You can change the properties you wish to change for the text from the inspector
 
 {% hint style="warning" %}
 
-Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
 
 {% endhint %}
 

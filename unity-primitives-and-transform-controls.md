@@ -98,7 +98,7 @@ So, for any transform control, you can use " Q, W, E and R" to easily get things
 
 {% hint style="warning" %}
 
-Got Struck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
+Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
 
 {% endhint %}
 
