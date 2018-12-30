@@ -97,16 +97,12 @@ So, for any transform control, you can use " Q, W, E and R" to easily get things
 ![](.gitbook/assets/image-19.png)
 
 {% hint style="warning" %}
-
 Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
-
 {% endhint %}
 
 {% hint style="info" %}
-
 ## Video Reference
 
 * [Understanding Unity Interference](https://www.youtube.com/watch?v=z92ZfYEyojI) 
-
 {% endhint %}
 
