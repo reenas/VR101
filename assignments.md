@@ -71,15 +71,13 @@ You can change the farm's name on the signboard by selecting the text and changi
 
 ![](.gitbook/assets/006.png)
 
-For example if you name is "Raj", then you have to change the name to " Raj's Farm " or any crazy name you can think of.
+For example if you name is "Raju", then you have to change the name to " Raju's Farm " or any crazy name you can think of.
 
 **5. Add Audio**
 
 Now that is done, you need to make it feel like it is a farm. In order to do that you need to add a background audio.  
 You will find an audio clip in the "Audio" folder in the Assets window.  
 You will also find an "Audio Source" in the hierarchy window as well. Select the Audio Source and add the audio clip to the audio source by dragging it to the inspector window to the "Audio Clip" place holder.
-
-* add image here
 
 ![](.gitbook/assets/007.png)
 
