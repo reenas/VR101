@@ -6,9 +6,12 @@ description: >-
 
 # Types of VR
 
-Broadly, VR can be classified based on its type of immersion and the type of device you intend to use.
+Broadly, VR can be classified based on i) type of immersion and ii) type of device you intend to use.
 
-Based on Type of Immersion, VR can be categorized broadly as:  
+# Type of Immersion
+
+Based on type of immersion, VR can be categorized broadly as: 
+
 1. 360 Degree Media and  
 2. Computer Generated 3D VR \(CG3D VR\)
 
@@ -16,7 +19,7 @@ Based on Type of Immersion, VR can be categorized broadly as:
 
 These are basically 360 Degree Camera-shot images or videos or rendered scenes or images in 3D.
 
-Camera shot 360 media enable you to experience or see a real-life place or scenario shot using a 360-degree camera.
+Camera shot 360 media enables you to experience or see a real-life place or scenario shot using a 360-degree camera.
 
 ![A 360 degree panoramic Image. Courtesy : Lynda.com](.gitbook/assets/image-12.png)
 
@@ -39,9 +42,9 @@ VR Devices can be broadly classified as :
 
 ### PC VR
 
-PC VR Headsets are headsets that provide the best possible VR experiences as of now. These headsets need to be connected to a PC to be used. It utilizes the computer's graphics capabilities to render the VR experience in real-time.
+PC VR headsets are the headsets that provide the best possible VR experiences as of now. These headsets need to be connected to a PC to be used. They utilize a computer's graphics capabilities to render the VR experience in the real-time.
 
-Most of the PC VR Headsets can track your presence in the 3D Space, which means you can walk around in the 3D space like you walk in the real-world.
+Most of the PC VR headsets can track your presence in the 3D Space, which means you can walk around in the 3D space like you walk in the real-world.
 
 Some of these Headsets are shown below:
 
@@ -57,14 +60,15 @@ Some of these Headsets are shown below:
 
 ![Courtesy : NYMag](.gitbook/assets/image-3.png)
 
-Playstation VR is the most famous VR headset and it connets only to a Playstation 4 \(PS4\)
+Playstation VR is the most famous VR headset and it connects only to a Playstation 4 \(PS4\)
 
 ### Mobile VR
 
 In 2011, when all the buzz about VR started coming in since the Oculus was announced, there was a general stigma that only people with high-end PCs can experience VR.
 
 But all that changed when Google came out with the Google Cardboard and showed everyone that you already have a VR capable device in your own hands - your Smartphone.  
-Mobile phones, even though it may not be able to give you the quality of immersion the PC VR headsets can give you.
+
+Mobile phones may not be able to give you the quality of immersion the PC VR headsets can give you.
 
 Some of these Mobile VR enablers are shown below:
 
@@ -82,7 +86,7 @@ Some of these Mobile VR enablers are shown below:
 
 \*\*\*\*
 
-**Standalone VR Headsets**
+**Standalone VR **
 
 Standalone VR headsets let you immerse yourself in VR without having to connect to a high-end PC or put a mobile phone inside a headset.
 
