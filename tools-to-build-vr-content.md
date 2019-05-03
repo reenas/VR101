@@ -4,7 +4,6 @@ description: >-
   the market right now.
 ---
 
-# Types of VR
 
 # Types of VR
 
