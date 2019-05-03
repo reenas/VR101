@@ -6,9 +6,9 @@ When you look at an amazing Canaletto painting, for example, you're experiencing
 
 If we're going to understand why books, movies, paintings, and pieces of music aren't the same thing as virtual reality, we need to define VR fairly clearly.
 
-A believable, interactive 3D computer-created world that you can explore so you feel you really are there, both mentally and physically.
+*"A believable, interactive 3D computer-created world that you can explore so you feel you really are there, both mentally and physically."*
 
-Putting it another way, virtual reality is essentially:
+Putting it in another way, virtual reality is essentially:
 
 1. **Believable**: You really need to feel like you're in your virtual world \(on Mars, or wherever\) and to keep believing that, or the illusion of virtual reality will disappear.
 2. **Interactive**: As you move around, the VR world needs to move with you. You can watch a 3D movie and be transported up to the Moon or down to the seabed—but it's not interactive in any sense.
