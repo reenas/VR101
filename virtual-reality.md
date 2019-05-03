@@ -1,6 +1,6 @@
 # Tools to build VR Content
 
-There are several tools which you can use to create VR Content.  
+There are several tools which can be used to create VR content.  
 Game Engines are primarily used to create VR content. The most widely used Game Engines for VR Experiences are listed below.
 
 **Unity3D**
@@ -20,7 +20,7 @@ Godot is the most powerful Open-Source Game engine. Heavily customizable, light 
 ![Courtesy Godot Engine](.gitbook/assets/image-26.png)
 
 **WebVR**  
-WebVR is an open specification that makes it possible to experience VR in your browser. Their goal is to make it easier for everyone to get into VR experiences, no matter what device you have.  
+WebVR is an open specification that makes it possible to experience VR in a browser. It's goal is to make it easier for everyone to get into VR experiences, no matter what devices they have.  
 Being over the browser, it works with almost any device.
 
 ![Courtesy : webvr.info](.gitbook/assets/image-9.png)
@@ -33,7 +33,7 @@ Scapic is a really amazing online platform which you can use to create and proto
 
 **Vizor and Vizor Patches**  
 Vizor is an easy to use tool to create VR Stories with 360-degree content.  
-It also has simple-to-use Visual Programming editor called "Patches" which can be used to create WebVR and WebGL experiences easily with no code at all.
+It also has a simple-to-use Visual Programming editor called "Patches" which can be used to create WebVR and WebGL experiences easily with no code at all.
 
 ![](.gitbook/assets/image-20.png)
 
