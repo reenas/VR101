@@ -69,7 +69,7 @@ You’ll notice when you select a GameObject while the Translate Tool is active,
 
 > _Note:_ this group of three colored arrows are known as a _gizmo_ in Unity-speak. A gizmo is 3D geometry or texture that provides information regarding the GameObject.
 >
-> In this case, the gizmo indicates the direction of each axis. As you learn more about Unity, you’ll be able to add your own gizmos to indicate things.The great thing about gizmos is they’re only displayed in the Scene View, and you can turn them off when they’re no longer needed.
+> In this case, the gizmo indicates the direction of each axis. As you learn more about Unity, you’ll be able to add your own gizmos to indicate things. The great thing about gizmos is they’re only displayed in the Scene View, and you can turn them off when they’re no longer needed.
 
 The third button is the **Rotate Tool**, which lets you rotate any object.
 
@@ -91,14 +91,12 @@ To scale an object along an axis, select the GameObject then drag the square end
 
 ![](.gitbook/assets/primative_scale.gif)
 
-The shortcut keys for the Hand Tool is - Q, translate is W, rotate is E, and scale is R.  
+The shortcut key for the Hand Tool is - Q, translate is W, rotate is E, and scale is R.  
 So, for any transform control, you can use " Q, W, E and R" to easily get things done.
 
 ![](.gitbook/assets/image-19.png)
 
-{% hint style="warning" %}
-Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
-{% endhint %}
+
 
 {% hint style="info" %}
 ## Video Reference
