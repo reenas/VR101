@@ -20,7 +20,7 @@ Point lights are useful for simulating lamps and other local sources of light in
 
 ![https://docs.unity3d.com/Manual/](.gitbook/assets/image-16.png)
 
-#### Spotlight:
+#### Spot Light:
 
 Like a point light, a spot light has a specified location and range over which the light falls off. However, the spot light is constrained to an angle, resulting in a cone-shaped region of illumination.
 
@@ -39,10 +39,6 @@ Directional lights are very useful for creating effects such as sunlight in your
 Directional lights represent large, distant sources that come from a position outside the range of the game world. In a realistic scene, they can be used to simulate the sun or moon. In an abstract game world, they can be a useful way to add convincing shading to objects without exactly specifying where the light is coming from.
 
 ![](.gitbook/assets/image-30.png)
-
-{% hint style="warning" %}
-Got Stuck??? Post your Query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)
-{% endhint %}
 
 {% hint style="info" %}
 ## Video Reference
