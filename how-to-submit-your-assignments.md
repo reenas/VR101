@@ -19,10 +19,7 @@ You need you to submit your assignment video to us. You may record your assignme
 {% hint style="success" %}
 ## **Submission URL**
 
-[https://svlabs.typeform.com/to/vLfEbh](https://svlabs.typeform.com/to/vLfEbh)
+[https://svlabs.typeform.com/to/d2FGkp](https://svlabs.typeform.com/to/d2FGkp)
 {% endhint %}
 
-{% hint style="warning" %}
-Got Stuck??? Post your query in this [Facebook Group](https://www.facebook.com/groups/soi.vr/)​
-{% endhint %}
 
