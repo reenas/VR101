@@ -6,9 +6,11 @@ description: >-
 
 # Types of VR
 
+# Types of VR
+
 Broadly, VR can be classified based on i) type of immersion and ii) type of device you intend to use.
 
-# Type of Immersion
+## Type of Immersion
 
 Based on type of immersion, VR can be categorized broadly as: 
 
