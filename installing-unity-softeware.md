@@ -67,8 +67,8 @@ Once you see something like this, your installation of Unity3d is complete.
 {% hint style="success" %}
 To Do \(A Summarize To-Do list for Students\)
 
-* [ ] Downloading Unity
-* [ ] Installing Unity
+*  1. Downloading Unity
+*  2. Installing Unity
 {% endhint %}
 
 
