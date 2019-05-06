@@ -8,7 +8,7 @@ The objective of the assignment is to complete the Farm in the project, which ca
 
 You have to:
 
-* download the project file and unzip it.  
+* Download the project file and unzip it.  
 * Open the file and Navigate to .. VR101 - Assignment &gt;&gt; Assets &gt;&gt; VR Assignment.unity  
 * Double-click and open the file.
 
@@ -25,12 +25,12 @@ You might have noticed that the scene in incomplete.
 Your task is to finish the scene by completing the following tasks.  
 There are 5 tasks to be completed:
 
-* [ ] **1. Round up the sheep and horses**
-* [ ] **2. Fix the fence for the sheep**
-* [ ] **3. Adjust the directional light**
-* [ ] **4. Change the name of the farm**
-* [ ] **5. Add an ambient audio**
-* [ ] **6. Take a screen video while in "play mode" and submit it.**
+* **1. Round up the sheep and horses**
+* **2. Fix the fence for the sheep**
+* **3. Adjust the directional light**
+* **4. Change the name of the farm**
+* **5. Add an ambient audio**
+* **6. Take a screen video while in "play mode" and submit it.**
 
 ### 1. Rounding up the sheep and the horses.
 
