@@ -1,6 +1,3 @@
----
-description: This will walk you thorough how to add Text to your scenes.
----
 
 # Adding Text
 
