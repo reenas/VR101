@@ -1,3 +1,6 @@
+---
+description: This page shows you how you can add text to your scenes.
+---
 
 # Adding Text
 
