@@ -8,7 +8,7 @@ description: This page will help you familiarize with the Unity3D Software.
 
 The Unity UI can be really intimidating and confusing at first. But do not worry, it is easier to use than it looks. The interface is highly customizable and you can make it look as simple or complex as you want it to be.
 
-On the top right corner, you will find 5 buttons, select the last button which would be titled " Layout", Click on it and choose the kind of layout you want for the editor. We will be using the "default" view until the end if this guide-book.
+On the top right corner, you will find 5 buttons, select the last button which would be titled " Layout", Click on it and choose the kind of layout you want for the editor. We will be using the "default" view until the end of this course.
 
 ![](.gitbook/assets/11.jpg)
 
@@ -78,7 +78,7 @@ The pause button lets you pause the game at any instant. You can pause at anytim
 
 ![](.gitbook/assets/playbuttons4.png)
 
-The third button is called the step button. It lets you step or sweep through each frame in a scene on a frame- by- frame basis.
+The third button is called the step button. It lets you step or sweep through each frame in a scene on a frame-by-frame basis.
 
 These are the basics Unity Interface elements that you will be dealing with. To get a better view of things, check out the official [Unity3D Manual](https://docs.unity3d.com/Manual/UnityBasics.html).
 
